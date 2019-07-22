@@ -1,2 +1,2 @@
-gp=input()
-print(gp[::-1])
+pl=input()
+print(pl[::-1])
